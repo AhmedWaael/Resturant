@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Projects\\Resturant\\Menu\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|f:\\projects\\resturant\\menu\\views\\home\\seem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|solutionrelative:views\\home\\seem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seem.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Resturant\\Menu\\Views\\Home\\Seem.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Seem.cshtml",
+              "ToolTip": "F:\\Projects\\Resturant\\Menu\\Views\\Home\\Seem.cshtml",
+              "RelativeToolTip": "Views\\Home\\Seem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T18:43:35.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
