@@ -1,9 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Projects\\Resturant\\Menu\\",
+  "WorkspaceRootPath": "D:\\Projects\\Resturant\\Menu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|f:\\projects\\resturant\\menu\\views\\home\\seem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|d:\\projects\\resturant\\menu\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|d:\\projects\\resturant\\menu\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|d:\\projects\\resturant\\menu\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|d:\\projects\\resturant\\menu\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|d:\\projects\\resturant\\menu\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|solutionrelative:models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|d:\\projects\\resturant\\menu\\models\\variantdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|solutionrelative:models\\variantdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|d:\\projects\\resturant\\menu\\models\\variantheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|solutionrelative:models\\variantheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|d:\\projects\\resturant\\menu\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|solutionrelative:models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|d:\\projects\\resturant\\menu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|d:\\projects\\resturant\\menu\\views\\home\\seem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FD7554B4-F213-4319-9E9E-E81E4F8BE477}|Menu.csproj|solutionrelative:views\\home\\seem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -14,17 +50,135 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Projects\\Resturant\\Menu\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "D:\\Projects\\Resturant\\Menu\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:22:14.142Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Resturant\\Menu\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\Resturant\\Menu\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:40:57.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Projects\\Resturant\\Menu\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Models\\Menu.cs",
+              "ToolTip": "D:\\Projects\\Resturant\\Menu\\Models\\Menu.cs",
+              "RelativeToolTip": "Models\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:21:01.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\Projects\\Resturant\\Menu\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "Models\\Class.cs",
+              "ToolTip": "D:\\Projects\\Resturant\\Menu\\Models\\Class.cs",
+              "RelativeToolTip": "Models\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:23:14.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VariantDetail.cs",
+              "DocumentMoniker": "D:\\Projects\\Resturant\\Menu\\Models\\VariantDetail.cs",
+              "RelativeDocumentMoniker": "Models\\VariantDetail.cs",
+              "ToolTip": "D:\\Projects\\Resturant\\Menu\\Models\\VariantDetail.cs",
+              "RelativeToolTip": "Models\\VariantDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:23:02.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VariantHeader.cs",
+              "DocumentMoniker": "D:\\Projects\\Resturant\\Menu\\Models\\VariantHeader.cs",
+              "RelativeDocumentMoniker": "Models\\VariantHeader.cs",
+              "ToolTip": "D:\\Projects\\Resturant\\Menu\\Models\\VariantHeader.cs",
+              "RelativeToolTip": "Models\\VariantHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:22:39.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Projects\\Resturant\\Menu\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Projects\\Resturant\\Menu\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:21:25.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Projects\\Resturant\\Menu\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\Projects\\Resturant\\Menu\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:20:20.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Resturant\\Menu\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Projects\\Resturant\\Menu\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:19:51.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Seem.cshtml",
-              "DocumentMoniker": "F:\\Projects\\Resturant\\Menu\\Views\\Home\\Seem.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Resturant\\Menu\\Views\\Home\\Seem.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Seem.cshtml",
-              "ToolTip": "F:\\Projects\\Resturant\\Menu\\Views\\Home\\Seem.cshtml",
+              "ToolTip": "D:\\Projects\\Resturant\\Menu\\Views\\Home\\Seem.cshtml",
               "RelativeToolTip": "Views\\Home\\Seem.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T18:43:35.652Z",
               "EditorCaption": ""

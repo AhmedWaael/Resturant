@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\Resturant\\Menu\\Menu.csproj": {}
+    "D:\\Projects\\Resturant\\Menu\\Menu.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\Resturant\\Menu\\Menu.csproj": {
+    "D:\\Projects\\Resturant\\Menu\\Menu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\Resturant\\Menu\\Menu.csproj",
+        "projectUniqueName": "D:\\Projects\\Resturant\\Menu\\Menu.csproj",
         "projectName": "Menu",
-        "projectPath": "F:\\Projects\\Resturant\\Menu\\Menu.csproj",
-        "packagesPath": "C:\\Users\\ahmed wael\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\Resturant\\Menu\\obj\\",
+        "projectPath": "D:\\Projects\\Resturant\\Menu\\Menu.csproj",
+        "packagesPath": "C:\\Users\\Hassan\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Resturant\\Menu\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ahmed wael\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Hassan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,6 +44,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,6 +65,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
